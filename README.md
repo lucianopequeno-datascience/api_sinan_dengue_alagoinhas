@@ -15,3 +15,7 @@ Esta API realiza a coleta, limpeza e ingestão dos dados de notificações de De
 2. Tratamento de inconsistências (CNES, idade, datas).
 3. Carga no BigQuery utilizando camadas de Medalhão.
 4. Atualização automática via CI/CD (GitHub + Cloud Build).
+
+```
+pysus 1.0.1 version
+```
